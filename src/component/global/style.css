@@ -1,0 +1,17 @@
+.logoHeader {
+  height: 42px;
+  width: 52px;
+}
+.main {
+  display: flex;
+  background-color: black;
+  height: 8rem;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.copyright {
+  color: whitesmoke;
+}
+.containerFooter {
+}

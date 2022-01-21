@@ -1,0 +1,60 @@
+.image {
+  height: 18rem;
+  width: 28rem;
+  border-radius: 4px;
+}
+.mainContainer {
+  justify-content: center;
+}
+.cardContainer {
+  width: 70rem;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 2rem;
+  box-shadow: 5px 4px 4px #767676;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+.cardContainer:hover {
+  width: 80rem;
+}
+.containerContent {
+  width: 35em;
+  margin-left: 2rem;
+  text-align: left;
+  margin-top: -14px;
+}
+.textAuthor {
+  color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: -14px;
+}
+.textDate {
+  margin-top: -12px;
+  color: gray;
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.textDesc {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+  color: #000;
+}
+.textTitle {
+  color: #000000;
+}
+.container1 {
+  display: flex;
+
+  width: 100%;
+  justify-content: center;
+
+  flex-direction: row;
+  text-decoration: none;
+}
+.divBox {
+  margin-top: 6rem;
+}
+.containerText1 {
+  margin-left: 2rem;
+}

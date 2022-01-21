@@ -1,0 +1,6 @@
+.globalContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #225f64; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #225f64, rgb(112, 22, 57));
+}
